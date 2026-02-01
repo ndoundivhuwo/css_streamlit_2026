@@ -36,7 +36,7 @@ section = st.sidebar.radio(
 )
 
 # ------------------ HEADER ------------------
-st.title("Curriculum Vitae")
+st.title("Research Profile")
 st.subheader("Dr Ndivhuwo Ndou")
 
 st.markdown("""
